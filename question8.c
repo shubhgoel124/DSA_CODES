@@ -60,9 +60,9 @@ void linkedlistRepresentation(int n, int m, int arr[n][m]) {
                     ptr = ptr->next;
                 }
             }
-        }
-    }
-  
+        }}
+//     } 
+//   egeygewgefe
     printf("|Value->Row->Col|--->");
     ptr = head;
     while (ptr != NULL) {
